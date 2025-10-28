@@ -1,0 +1,6 @@
+Patient_ID,Age,Gender,Blood_Pressure,Cholesterol,Heart_Rate,BMI
+1,45,M,130,220,72,27.4
+2,54,F,145,250,80,31.2
+3,37,M,120,190,76,24.5
+4,60,F,160,280,70,29.7
+5,29,M,110,180,68,23.1
